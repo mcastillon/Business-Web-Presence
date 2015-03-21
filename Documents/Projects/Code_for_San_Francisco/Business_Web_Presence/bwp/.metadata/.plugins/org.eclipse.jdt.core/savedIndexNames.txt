@@ -1,0 +1,23 @@
+INDEX VERSION 1.127+C:\Users\mcast_000\Documents\Projects\Code_for_San_Francisco\Business_Web_Presence\bwp\.metadata\.plugins\org.eclipse.jdt.core
+3579399264.index
+4275448310.index
+1431365861.index
+1571712741.index
+3296867124.index
+3772380056.index
+1825659293.index
+2541245157.index
+2938872725.index
+559390872.index
+2871887937.index
+1938758468.index
+970626710.index
+260295031.index
+3872267451.index
+2094789591.index
+2326175388.index
+3700886420.index
+522689238.index
+4142789474.index
+1519765923.index
+3699641884.index
